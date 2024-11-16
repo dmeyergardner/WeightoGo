@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weigh to Go</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="edit_profile_picture">Edit Profile Picture</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>

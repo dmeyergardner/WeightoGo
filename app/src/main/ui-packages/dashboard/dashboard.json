@@ -1,0 +1,2302 @@
+{
+  "name": "dashboard",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "EovCOVuO4n8s5E7DvqPYJz",
+    "node": "15:179",
+    "version": "6701325219",
+    "component-id": "60ee6ed712df8a7f6f557eb95f858c68a7fb220d"
+  },
+  "default": "Dashboard",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "doctor"
+      },
+      {
+        "type": "group",
+        "id": "top"
+      },
+      {
+        "type": "group",
+        "id": "Offer banner"
+      },
+      {
+        "type": "group",
+        "id": "Header group"
+      },
+      {
+        "type": "group",
+        "id": "Bottom Bar"
+      },
+      {
+        "type": "group",
+        "id": "Bars / Status Bar / iPhone / Light"
+      },
+      {
+        "type": "group",
+        "id": "🦆 icon \"plus\""
+      },
+      {
+        "type": "group",
+        "id": "🦆 icon \"history\""
+      },
+      {
+        "type": "group",
+        "id": "🦆 icon \"chart line\""
+      },
+      {
+        "type": "group",
+        "id": "🦆 icon \"settings\""
+      },
+      {
+        "type": "group",
+        "id": "doctor 2"
+      },
+      {
+        "type": "group",
+        "id": "doctor 4"
+      },
+      {
+        "type": "group",
+        "id": "doctor 3"
+      },
+      {
+        "type": "vector",
+        "id": "doctor 2 background"
+      },
+      {
+        "type": "group",
+        "id": "doctor 2 details"
+      },
+      {
+        "type": "text",
+        "id": "distance"
+      },
+      {
+        "type": "text",
+        "id": "ratting"
+      },
+      {
+        "type": "group",
+        "id": "Star"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 27image 5"
+      },
+      {
+        "type": "text",
+        "id": "Dr. Maria Elena"
+      },
+      {
+        "type": "text",
+        "id": "Psychologist"
+      },
+      {
+        "type": "vector",
+        "id": "Star1"
+      },
+      {
+        "type": "vector",
+        "id": "doctor 4 background"
+      },
+      {
+        "type": "group",
+        "id": "doctor 4 details"
+      },
+      {
+        "type": "text",
+        "id": "distance1"
+      },
+      {
+        "type": "text",
+        "id": "Ratting"
+      },
+      {
+        "type": "group",
+        "id": "Star2"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 27image 4"
+      },
+      {
+        "type": "text",
+        "id": "Dr. Marcus Horizo"
+      },
+      {
+        "type": "text",
+        "id": "Chardiologist"
+      },
+      {
+        "type": "vector",
+        "id": "Star3"
+      },
+      {
+        "type": "vector",
+        "id": "doctor 3 background"
+      },
+      {
+        "type": "group",
+        "id": "doctor 3 details"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 27image 6"
+      },
+      {
+        "type": "text",
+        "id": "distance2"
+      },
+      {
+        "type": "group",
+        "id": "Star4"
+      },
+      {
+        "type": "text",
+        "id": "ratting1"
+      },
+      {
+        "type": "text",
+        "id": "Dr. Stevi Jessi"
+      },
+      {
+        "type": "text",
+        "id": "Orthopedist"
+      },
+      {
+        "type": "vector",
+        "id": "Star5"
+      },
+      {
+        "type": "text",
+        "id": "Top Doctor"
+      },
+      {
+        "type": "text",
+        "id": "See all"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 6"
+      },
+      {
+        "type": "group",
+        "id": "offer banner group"
+      },
+      {
+        "type": "text",
+        "id": "192"
+      },
+      {
+        "type": "text",
+        "id": "Early protection for your family healt"
+      },
+      {
+        "type": "group",
+        "id": "Notification Icon"
+      },
+      {
+        "type": "text",
+        "id": "Find your desire healt solution"
+      },
+      {
+        "type": "group",
+        "id": "Notification"
+      },
+      {
+        "type": "vector",
+        "id": "Stroke 1"
+      },
+      {
+        "type": "vector",
+        "id": "Stroke 3"
+      },
+      {
+        "type": "vector",
+        "id": "BottonBar background"
+      },
+      {
+        "type": "group",
+        "id": "Messages group"
+      },
+      {
+        "type": "group",
+        "id": "Appointment group"
+      },
+      {
+        "type": "group",
+        "id": "Profile group"
+      },
+      {
+        "type": "group",
+        "id": "Home group"
+      },
+      {
+        "type": "vector",
+        "id": "Messages Icon"
+      },
+      {
+        "type": "text",
+        "id": "Messages"
+      },
+      {
+        "type": "vector",
+        "id": "Appointment Icon"
+      },
+      {
+        "type": "text",
+        "id": "Appointment"
+      },
+      {
+        "type": "vector",
+        "id": "Profile icon"
+      },
+      {
+        "type": "text",
+        "id": "Profile"
+      },
+      {
+        "type": "vector",
+        "id": "Home Icon"
+      },
+      {
+        "type": "text",
+        "id": "Home"
+      },
+      {
+        "type": "group",
+        "id": "Battery"
+      },
+      {
+        "type": "group",
+        "id": "Time Style"
+      },
+      {
+        "type": "vector",
+        "id": "Border"
+      },
+      {
+        "type": "vector",
+        "id": "Cap"
+      },
+      {
+        "type": "vector",
+        "id": "Capacity"
+      },
+      {
+        "type": "text",
+        "id": "Time"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 5"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      }
+    ],
+    "modes": {
+      "Dashboard": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "doctor",
+              "top",
+              "Offer banner",
+              "Header group",
+              "Bottom Bar",
+              "Bars / Status Bar / iPhone / Light",
+              "🦆 icon \"plus\"",
+              "🦆 icon \"history\"",
+              "🦆 icon \"chart line\"",
+              "🦆 icon \"settings\""
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 212.30769230769232,
+              "saturation": 0.196969696969697,
+              "value": 0.25882352941176473
+            }
+          },
+          {
+            "id": "doctor",
+            "presence": false,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 21.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 488.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 382.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 173.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "doctor 2",
+              "doctor 4",
+              "doctor 3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "top",
+            "presence": false,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 454.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 334.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 19.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Top Doctor",
+              "See all"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Offer banner",
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 294.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 335.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 257.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 6",
+              "offer banner group",
+              "192"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Header group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 64.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 335.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 64.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Notification Icon",
+              "Find your desire healt solution"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Bottom Bar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 594.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 375.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 50.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "BottonBar background",
+              "Messages group",
+              "Appointment group",
+              "Profile group",
+              "Home group"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Bars / Status Bar / iPhone / Light",
+            "margin": {
+              "bottom": 617.0
+            },
+            "is-structured": false,
+            "children": [
+              "Battery",
+              "Time Style"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "🦆 icon \"plus\"",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 180.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 2",
+              "Vector"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "🦆 icon \"history\"",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 108.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 180.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 3",
+              "Vector1",
+              "Vector2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "🦆 icon \"chart line\"",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 196.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 180.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 4",
+              "Vector3",
+              "Vector4"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "🦆 icon \"settings\"",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 284.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 180.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 5",
+              "Vector5",
+              "Vector6"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "doctor 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 132.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 118.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 173.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "doctor 2 background",
+              "doctor 2 details"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "doctor 4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 118.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 173.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "doctor 4 background",
+              "doctor 4 details"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "doctor 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 264.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 118.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 173.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "doctor 3 background",
+              "doctor 3 details"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "doctor 2 background",
+            "border-radius": 11.132076263427734,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 118.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 173.0
+              }
+            }
+          },
+          {
+            "id": "doctor 2 details",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 8.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 23.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 94.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 137.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "distance",
+              "ratting",
+              "Star",
+              "Ellipse 27image 5",
+              "Dr. Maria Elena",
+              "Psychologist"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "distance",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 49.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 127.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "1,5km away",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "ratting",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 14.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 126.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 91.97368421052632,
+              "saturation": 0.6229508196721312,
+              "value": 0.9568627450980393
+            },
+            "text-content": "4,9",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Star",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 125.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.834735870361328
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.292357444763184
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Star1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Ellipse 27image 5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 17.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 68.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 68.0
+              }
+            }
+          },
+          {
+            "id": "Dr. Maria Elena",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 86.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Dr. Maria Elena",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Psychologist",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 104.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Psychologist",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 9.0,
+            "line-height": 1.2102272245619032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Star1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "doctor 4 background",
+            "border-radius": 11.132076263427734,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 118.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 173.0
+              }
+            }
+          },
+          {
+            "id": "doctor 4 details",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 8.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 23.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 137.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "distance1",
+              "Ratting",
+              "Star2",
+              "Ellipse 27image 4",
+              "Dr. Marcus Horizo",
+              "Chardiologist"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "distance1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 49.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 127.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.8117647058823529
+            },
+            "text-content": "800m away",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Ratting",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 14.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 126.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 91.97368421052632,
+              "saturation": 0.6229508196721312,
+              "value": 0.9568627450980393
+            },
+            "text-content": "4,7",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Star2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 125.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.834735870361328
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.292357444763184
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Star3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Ellipse 27image 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 17.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 68.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 68.0
+              }
+            }
+          },
+          {
+            "id": "Dr. Marcus Horizo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 86.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {},
+            "text-content": "Dr. Marcus Horizo",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Chardiologist",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 104.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.8117647058823529
+            },
+            "text-content": "Chardiologist",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 9.0,
+            "line-height": 1.2102272245619032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Star3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "doctor 3 background",
+            "border-radius": 11.132076263427734,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 118.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 173.0
+              }
+            }
+          },
+          {
+            "id": "doctor 3 details",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 10.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 23.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 88.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 137.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 27image 6",
+              "distance2",
+              "Star4",
+              "ratting1",
+              "Dr. Stevi Jessi",
+              "Orthopedist"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Ellipse 27image 6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 68.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 68.0
+              }
+            }
+          },
+          {
+            "id": "distance2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 49.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 127.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "2km away",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Star4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 125.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.834735870361328
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.292357444763184
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Star5"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "ratting1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 14.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 126.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 91.97368421052632,
+              "saturation": 0.6229508196721312,
+              "value": 0.9568627450980393
+            },
+            "text-content": "4,8",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Dr. Stevi Jessi",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 86.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Dr. Stevi Jessi",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Orthopedist",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 104.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Orthopedist",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 9.0,
+            "line-height": 1.2102272245619032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Star5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Top Doctor",
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Top Doctor",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "See all",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 296.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 91.97368421052632,
+              "saturation": 0.6229508196721312,
+              "value": 0.9568627450980393
+            },
+            "text-content": "See all",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 6",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 335.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 213.0
+              }
+            },
+            "vector-content": "rectangle_6.svg"
+          },
+          {
+            "id": "offer banner group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 21.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 19.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 186.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 35.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Early protection for your family healt"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "192",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 14.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 55.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 271.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 147.0
+              }
+            },
+            "font-weight": 600.0,
+            "text-content": "192",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 128.0,
+            "line-height": 0.1953125,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Early protection for your family healt",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 186.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 35.0
+              }
+            },
+            "font-weight": 600.0,
+            "text-content": "Today’s Weight",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 20.0,
+            "line-height": 1.25,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Notification Icon",
+            "margin": {
+              "left": 311.0,
+              "top": 16.866943359375,
+              "bottom": 20.1773681640625
+            },
+            "is-structured": false,
+            "children": [
+              "Notification"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Find your desire healt solution",
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Weigh to Go! You’ve got this!",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 24.0,
+            "line-height": 1.3333332824707032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Notification",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 3.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.246307373046875
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 17.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 22.4630126953125
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Stroke 1",
+              "Stroke 3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Stroke 1",
+            "margin": {
+              "bottom": 4.371852874755859
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "stroke_1.svg"
+          },
+          {
+            "id": "Stroke 3",
+            "margin": {
+              "left": 5.531494140625,
+              "top": 19.853729248046875,
+              "right": 5.615553855895996
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "stroke_3.svg"
+          },
+          {
+            "id": "BottonBar background",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 375.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 50.0
+              }
+            },
+            "vector-content": "botton_bar_background.svg"
+          },
+          {
+            "id": "Messages group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 94.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 94.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 36.000030517578125
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Messages Icon",
+              "Messages"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Appointment group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 188.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 36.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Appointment Icon",
+              "Appointment"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Profile group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 281.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.75
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 36.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Profile icon",
+              "Profile"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Home group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.75
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 36.080657958984375
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Home Icon",
+              "Home"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Messages Icon",
+            "margin": {
+              "left": 37.0986328125,
+              "right": 35.348066329956055,
+              "bottom": 13.438301086425781
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "messages_icon.svg"
+          },
+          {
+            "id": "Messages",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 25.58203125
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 94.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.417999267578125
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Messages",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Appointment Icon",
+            "margin": {
+              "left": 34.7041015625,
+              "right": 36.459856033325195,
+              "bottom": 12.979999542236328
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "appointment_icon.svg"
+          },
+          {
+            "id": "Appointment",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 26.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Weight",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Profile icon",
+            "margin": {
+              "left": 37.0,
+              "right": 34.821414947509766,
+              "bottom": 13.051414489746094
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "profile_icon.svg"
+          },
+          {
+            "id": "Profile",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 26.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.75
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Profile",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Home Icon",
+            "margin": {
+              "left": 37.0,
+              "right": 37.59679985046387,
+              "bottom": 13.436519622802734
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "home_icon.svg"
+          },
+          {
+            "id": "Home",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 26.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.75
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.080657958984375
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 91.97368421052632,
+              "saturation": 0.6229508196721312,
+              "value": 0.9568627450980393
+            },
+            "text-content": "Home",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Battery",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 336.333251953125
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 17.33331298828125
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.328039169311523
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.3333740234375
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Border",
+              "Cap",
+              "Capacity"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Time Style",
+            "margin": {
+              "left": 21.0,
+              "top": 7.0,
+              "right": 300.0,
+              "bottom": 16.0
+            },
+            "is-structured": false,
+            "children": [
+              "Time"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Border",
+            "margin": {
+              "right": 2.3280391693115234
+            },
+            "border-radius": 2.6666667461395264,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "border.svg"
+          },
+          {
+            "id": "Cap",
+            "margin": {
+              "left": 23.0,
+              "top": 3.6666259765625,
+              "bottom": 3.666748046875
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "cap.svg"
+          },
+          {
+            "id": "Capacity",
+            "margin": {
+              "left": 2.0,
+              "top": 2.0,
+              "right": 4.328039169311523,
+              "bottom": 2.0
+            },
+            "border-radius": 1.3333333730697632,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "capacity.svg"
+          },
+          {
+            "id": "Time",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 5.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "9:41",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 15.0,
+            "letter-spacing": -0.23999999463558197,
+            "line-height": 1.3333332824707032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 2",
+            "border-radius": 15.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              }
+            },
+            "vector-content": "rectangle_2.svg"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": 12.0,
+              "top": 13.0,
+              "right": 11.0,
+              "bottom": 12.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Rectangle 3",
+            "border-radius": 15.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              }
+            },
+            "vector-content": "rectangle_3.svg"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": 9.0,
+              "top": 12.0,
+              "right": 10.0,
+              "bottom": 9.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": 33.1796875,
+              "top": 22.00531005859375,
+              "right": 23.881178855895996,
+              "bottom": 30.637144088745117
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Rectangle 4",
+            "border-radius": 15.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              }
+            },
+            "vector-content": "rectangle_4.svg"
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": 17.068603515625,
+              "top": 19.06707763671875,
+              "right": 11.999996185302734,
+              "bottom": 17.188961029052734
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Vector4",
+            "margin": {
+              "left": 11.0,
+              "top": 12.0,
+              "right": 12.0,
+              "bottom": 9.530548095703125
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "Rectangle 5",
+            "border-radius": 15.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              }
+            },
+            "vector-content": "rectangle_5.svg"
+          },
+          {
+            "id": "Vector5",
+            "margin": {
+              "left": 25.52587890625,
+              "top": 26.0999755859375,
+              "right": 24.526321411132812,
+              "bottom": 25.100025177001953
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector5.svg"
+          },
+          {
+            "id": "Vector6",
+            "margin": {
+              "left": 9.0,
+              "top": 9.0,
+              "right": 8.0,
+              "bottom": 8.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector6.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Dashboard",
+      "size": {
+        "width": 375.0,
+        "height": 661.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

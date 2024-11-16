@@ -1,0 +1,1401 @@
+{
+  "name": "signup",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "EovCOVuO4n8s5E7DvqPYJz",
+    "node": "15:180",
+    "version": "6701325219",
+    "component-id": "d98a992b37c5fd5698861519cacb5a648a48e156"
+  },
+  "default": "Signup",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Bars / Status Bar / iPhone / Light"
+      },
+      {
+        "type": "text",
+        "id": "Let’s Get Started"
+      },
+      {
+        "type": "text",
+        "id": "Create an new account"
+      },
+      {
+        "type": "text",
+        "id": "Have an account? Sign In"
+      },
+      {
+        "type": "group",
+        "id": "Sign up"
+      },
+      {
+        "type": "group",
+        "id": "Full Name field"
+      },
+      {
+        "type": "group",
+        "id": "Email field"
+      },
+      {
+        "type": "group",
+        "id": "Password field"
+      },
+      {
+        "type": "group",
+        "id": "Password Again field"
+      },
+      {
+        "type": "image",
+        "id": "tempImagegYAql6 1"
+      },
+      {
+        "type": "group",
+        "id": "Battery"
+      },
+      {
+        "type": "group",
+        "id": "Time Style"
+      },
+      {
+        "type": "vector",
+        "id": "Border"
+      },
+      {
+        "type": "vector",
+        "id": "Cap"
+      },
+      {
+        "type": "vector",
+        "id": "Capacity"
+      },
+      {
+        "type": "text",
+        "id": "Time"
+      },
+      {
+        "type": "vector",
+        "id": "Sign up button"
+      },
+      {
+        "type": "text",
+        "id": "Sign up1"
+      },
+      {
+        "type": "group",
+        "id": "Full Name Form"
+      },
+      {
+        "type": "group",
+        "id": "system icon/24px/User"
+      },
+      {
+        "type": "text",
+        "id": "Full Name"
+      },
+      {
+        "type": "group",
+        "id": "Group"
+      },
+      {
+        "type": "vector",
+        "id": "Vector (Stroke)"
+      },
+      {
+        "type": "vector",
+        "id": "Vector (Stroke)1"
+      },
+      {
+        "type": "group",
+        "id": "Email Form"
+      },
+      {
+        "type": "group",
+        "id": "system icon/24px/Message"
+      },
+      {
+        "type": "text",
+        "id": "Your Email"
+      },
+      {
+        "type": "group",
+        "id": "Group1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector (Stroke)2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector (Stroke)3"
+      },
+      {
+        "type": "group",
+        "id": "Password Form"
+      },
+      {
+        "type": "group",
+        "id": "system icon/24px/Password"
+      },
+      {
+        "type": "text",
+        "id": "Password"
+      },
+      {
+        "type": "group",
+        "id": "Group2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector (Stroke)4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector (Stroke)5"
+      },
+      {
+        "type": "vector",
+        "id": "Vector (Stroke)6"
+      },
+      {
+        "type": "group",
+        "id": "Password Again From"
+      },
+      {
+        "type": "group",
+        "id": "system icon/24px/Password1"
+      },
+      {
+        "type": "text",
+        "id": "Password Again"
+      },
+      {
+        "type": "group",
+        "id": "Group3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector (Stroke)7"
+      },
+      {
+        "type": "vector",
+        "id": "Vector (Stroke)8"
+      },
+      {
+        "type": "vector",
+        "id": "Vector (Stroke)9"
+      }
+    ],
+    "modes": {
+      "Signup": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "Bars / Status Bar / iPhone / Light",
+              "Let’s Get Started",
+              "Create an new account",
+              "Have an account? Sign In",
+              "Sign up",
+              "Full Name field",
+              "Email field",
+              "Password field",
+              "Password Again field",
+              "tempImagegYAql6 1"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 212.30769230769232,
+              "saturation": 0.196969696969697,
+              "value": 0.25882352941176473
+            }
+          },
+          {
+            "id": "Bars / Status Bar / iPhone / Light",
+            "margin": {
+              "bottom": 732.0
+            },
+            "is-structured": false,
+            "children": [
+              "Battery",
+              "Time Style"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Let’s Get Started",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 115.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 217.0
+              }
+            },
+            "font-weight": 700.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 91.97368421052632,
+              "saturation": 0.6229508196721312,
+              "value": 0.9568627450980393
+            },
+            "text-content": "Let’s Get Started",
+            "overflow": "visible",
+            "text-size": 16.0,
+            "letter-spacing": 0.5,
+            "line-height": 1.5,
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Create an new account",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 110.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 249.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Create an new account",
+            "overflow": "visible",
+            "text-size": 12.0,
+            "letter-spacing": 0.5,
+            "line-height": 1.7999998474121093,
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Have an account? Sign In",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 104.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 694.0
+              }
+            },
+            "font-weight": 700.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "annotated-text-content": {
+              "text": "Have an account? Sign In",
+              "annotated-text-span-list": [
+                {
+                  "span-start": 0,
+                  "span-length": 16,
+                  "annotated-text-style": {
+                    "font-weight": 400.0,
+                    "text-size": 12.0,
+                    "letter-spacing": 0.5,
+                    "line-height": 1.5,
+                    "typeface": "Poppins",
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 0.0,
+                      "saturation": 0.0,
+                      "value": 1.0
+                    }
+                  }
+                },
+                {
+                  "span-start": 16,
+                  "span-length": 1,
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 237.64705882352942,
+                      "saturation": 0.6270491803278689,
+                      "value": 0.9568627450980393
+                    }
+                  }
+                },
+                {
+                  "span-start": 17,
+                  "span-length": 7
+                }
+              ]
+            },
+            "overflow": "visible",
+            "text-size": 12.0,
+            "letter-spacing": 0.5,
+            "line-height": 1.5,
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Sign up",
+            "border-radius": 8.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 550.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 343.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 50.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Sign up button",
+              "Sign up1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Full Name field",
+            "border-radius": 5.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 295.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 343.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Full Name Form"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Email field",
+            "border-radius": 5.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 351.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 343.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Email Form"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Password field",
+            "border-radius": 5.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 407.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 343.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Password Form"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Password Again field",
+            "border-radius": 5.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 463.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 343.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Password Again From"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "tempImagegYAql6 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 94.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 97.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 105.0
+              }
+            },
+            "image-content": "temp_imageg_yaql6_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Battery",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 336.333251953125
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 17.33331298828125
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.328039169311523
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.3333740234375
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Border",
+              "Cap",
+              "Capacity"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Time Style",
+            "margin": {
+              "left": 21.0,
+              "top": 7.0,
+              "right": 300.0,
+              "bottom": 16.0
+            },
+            "is-structured": false,
+            "children": [
+              "Time"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Border",
+            "margin": {
+              "right": 2.3280391693115234
+            },
+            "border-radius": 2.6666667461395264,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "border.svg"
+          },
+          {
+            "id": "Cap",
+            "margin": {
+              "left": 23.0,
+              "top": 3.6666259765625,
+              "bottom": 3.666748046875
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "cap.svg"
+          },
+          {
+            "id": "Capacity",
+            "margin": {
+              "left": 2.0,
+              "top": 2.0,
+              "right": 4.328039169311523,
+              "bottom": 2.0
+            },
+            "border-radius": 1.3333333730697632,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "capacity.svg"
+          },
+          {
+            "id": "Time",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 5.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "9:41",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 15.0,
+            "letter-spacing": -0.23999999463558197,
+            "line-height": 1.3333332824707032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Sign up button",
+            "border-radius": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 343.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 50.0
+              }
+            },
+            "vector-content": "sign_up_button.svg"
+          },
+          {
+            "id": "Sign up1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 145.39111328125
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 15.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 51.194091796875
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 264.0,
+              "saturation": 0.15625,
+              "value": 0.12549019607843137
+            },
+            "text-content": "Sign up",
+            "overflow": "visible",
+            "max-lines": -1,
+            "letter-spacing": -0.23999999463558197,
+            "line-height": 1.4285714721679688,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Full Name Form",
+            "border-radius": 5.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 343.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 225.7142857142857,
+              "saturation": 0.08235294117647063,
+              "value": 1.0
+            },
+            "is-structured": false,
+            "children": [
+              "system icon/24px/User",
+              "Full Name"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "system icon/24px/User",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 16.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Group"
+            ]
+          },
+          {
+            "id": "Full Name",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 50.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 13.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 277.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 225.45454545454544,
+              "saturation": 0.18644067796610167,
+              "value": 0.6941176470588235
+            },
+            "text-content": "Full Name",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "letter-spacing": 0.5,
+            "line-height": 1.7999998474121093,
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 2.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.0005645751953125
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 19.998851776123047
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector (Stroke)",
+              "Vector (Stroke)1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Vector (Stroke)",
+            "margin": {
+              "left": 5.09765625,
+              "right": 5.097583770751953,
+              "bottom": 10.194091796875
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_stroke_.svg"
+          },
+          {
+            "id": "Vector (Stroke)1",
+            "margin": {
+              "top": 11.389892578125
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_stroke_1.svg"
+          },
+          {
+            "id": "Email Form",
+            "border-radius": 5.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 343.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 225.7142857142857,
+              "saturation": 0.08235294117647063,
+              "value": 1.0
+            },
+            "is-structured": false,
+            "children": [
+              "system icon/24px/Message",
+              "Your Email"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "system icon/24px/Message",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 16.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Group1"
+            ]
+          },
+          {
+            "id": "Your Email",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 50.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 13.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 277.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 225.45454545454544,
+              "saturation": 0.18644067796610167,
+              "value": 0.6941176470588235
+            },
+            "text-content": "Your Email",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "letter-spacing": 0.5,
+            "line-height": 1.7999998474121093,
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Group1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 2.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 4.2499847412109375
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.000028610229492
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 15.5
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector (Stroke)2",
+              "Vector (Stroke)3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Vector (Stroke)2",
+            "margin": {
+              "right": 0.0000286102294921875
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_stroke_2.svg"
+          },
+          {
+            "id": "Vector (Stroke)3",
+            "margin": {
+              "bottom": 5.785855293273926
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_stroke_3.svg"
+          },
+          {
+            "id": "Password Form",
+            "border-radius": 5.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 343.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 225.7142857142857,
+              "saturation": 0.08235294117647063,
+              "value": 1.0
+            },
+            "is-structured": false,
+            "children": [
+              "system icon/24px/Password",
+              "Password"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "system icon/24px/Password",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 16.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Group2"
+            ]
+          },
+          {
+            "id": "Password",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 50.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 13.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 277.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 225.45454545454544,
+              "saturation": 0.18644067796610167,
+              "value": 0.6941176470588235
+            },
+            "text-content": "Password",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "letter-spacing": 0.5,
+            "line-height": 1.7999998474121093,
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Group2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 2.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector (Stroke)4",
+              "Vector (Stroke)5",
+              "Vector (Stroke)6"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Vector (Stroke)4",
+            "margin": {
+              "top": 6.75
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_stroke_4.svg"
+          },
+          {
+            "id": "Vector (Stroke)5",
+            "margin": {
+              "left": 3.375,
+              "right": 3.375,
+              "bottom": 12.158999919891357
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_stroke_5.svg"
+          },
+          {
+            "id": "Vector (Stroke)6",
+            "margin": {
+              "left": 9.0,
+              "top": 11.7257080078125,
+              "right": 9.0,
+              "bottom": 5.1492919921875
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_stroke_6.svg"
+          },
+          {
+            "id": "Password Again From",
+            "border-radius": 5.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 343.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 225.7142857142857,
+              "saturation": 0.08235294117647063,
+              "value": 1.0
+            },
+            "is-structured": false,
+            "children": [
+              "system icon/24px/Password1",
+              "Password Again"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "system icon/24px/Password1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 16.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 12.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Group3"
+            ]
+          },
+          {
+            "id": "Password Again",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 50.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 13.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 277.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 225.45454545454544,
+              "saturation": 0.18644067796610167,
+              "value": 0.6941176470588235
+            },
+            "text-content": "Password Again",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "letter-spacing": 0.5,
+            "line-height": 1.7999998474121093,
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Group3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 2.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector (Stroke)7",
+              "Vector (Stroke)8",
+              "Vector (Stroke)9"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Vector (Stroke)7",
+            "margin": {
+              "top": 6.75
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_stroke_7.svg"
+          },
+          {
+            "id": "Vector (Stroke)8",
+            "margin": {
+              "left": 3.375,
+              "right": 3.375,
+              "bottom": 12.158999919891357
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_stroke_8.svg"
+          },
+          {
+            "id": "Vector (Stroke)9",
+            "margin": {
+              "left": 9.0,
+              "top": 11.7257080078125,
+              "right": 9.0,
+              "bottom": 5.1492919921875
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_stroke_9.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Signup",
+      "size": {
+        "width": 375.0,
+        "height": 776.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

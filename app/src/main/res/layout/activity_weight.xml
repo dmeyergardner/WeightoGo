@@ -1,0 +1,160 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorCharcoal"
+    android:padding="16dp">
+
+    <!-- Title Section -->
+    <TextView
+        android:id="@+id/weightTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weight"
+        android:textSize="24sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="8dp"
+        android:layout_alignParentTop="true" />
+
+    <!-- Tab Navigation (Today, History, Trends) -->
+    <LinearLayout
+        android:id="@+id/tabNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/weightTitle"
+        android:gravity="center"
+        android:layout_marginTop="16dp">
+
+        <!-- Today Tab -->
+        <TextView
+            android:id="@+id/tabToday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Today"
+            android:textColor="@color/colorGreen"
+            android:textStyle="bold"
+            android:layout_marginEnd="16dp"
+            android:padding="8dp"
+            android:background="@drawable/tab_selected" />
+
+        <!-- History Tab -->
+        <TextView
+            android:id="@+id/tabHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="History"
+            android:textColor="@android:color/white"
+            android:layout_marginEnd="16dp"
+            android:padding="8dp"
+            android:background="@drawable/tab_unselected" />
+
+        <!-- Trends Tab -->
+        <TextView
+            android:id="@+id/tabTrends"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trends"
+            android:textColor="@android:color/white"
+            android:padding="8dp"
+            android:background="@drawable/tab_unselected" />
+    </LinearLayout>
+
+    <!-- Weight Progress Bar -->
+    <ProgressBar
+        android:id="@+id/weightProgressBar"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="16dp"
+        android:layout_below="@id/tabNavigation"
+        android:layout_marginTop="16dp"
+        android:progressDrawable="@drawable/progress_drawable"
+        android:progress="65" />
+
+    <!-- Weight Display -->
+    <TextView
+        android:id="@+id/weightDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="192"
+        android:textSize="72sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:layout_below="@id/weightProgressBar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+    <!-- Weight Input Form -->
+    <RelativeLayout
+        android:id="@+id/weightInputForm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/weightDisplay"
+        android:layout_marginTop="16dp"
+        android:padding="16dp"
+        android:background="@color/colorWhite">
+
+        <!-- Weight Prompt -->
+        <TextView
+            android:id="@+id/weightPrompt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What is your weight now?"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:textStyle="bold" />
+
+        <!-- Weight Input -->
+        <EditText
+            android:id="@+id/input_weight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Weight"
+            android:inputType="numberDecimal"
+            android:layout_below="@id/weightPrompt"
+            android:layout_marginTop="8dp" />
+
+        <!-- Camera Button -->
+        <Button
+            android:id="@+id/btn_take_picture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Take Progress Picture"
+            android:layout_below="@id/input_weight"
+            android:layout_marginTop="16dp" />
+
+        <!-- ImageView for Progress Picture -->
+        <ImageView
+            android:id="@+id/image_progress"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_below="@id/btn_take_picture"
+            android:layout_marginTop="16dp"
+            android:contentDescription="Progress Picture"
+            android:visibility="gone" />
+
+        <!-- Save Button -->
+        <Button
+            android:id="@+id/btn_save_weight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save Weight"
+            android:layout_below="@id/image_progress"
+            android:layout_marginTop="16dp" />
+    </RelativeLayout>
+
+    <!-- Bottom Navigation Bar -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        app:menu="@menu/bottom_navigation_menu"
+        app:itemIconTint="@color/primary_mode_icon"
+        app:itemTextColor="@color/primary_mode_text"
+        android:background="@color/colorPrimary"
+        android:layout_alignParentBottom="true" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

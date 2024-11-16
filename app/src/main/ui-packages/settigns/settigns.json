@@ -1,0 +1,3341 @@
+{
+  "name": "settigns",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "EovCOVuO4n8s5E7DvqPYJz",
+    "node": "15:19",
+    "version": "6701325219",
+    "component-id": "1fcd34248effc6b88ee34b203779d731eb112871"
+  },
+  "default": "Settigns",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Bars / Status Bar / iPhone / Light"
+      },
+      {
+        "type": "group",
+        "id": "option list background"
+      },
+      {
+        "type": "group",
+        "id": "Amelia Renata"
+      },
+      {
+        "type": "group",
+        "id": "health data"
+      },
+      {
+        "type": "group",
+        "id": "profile photo group"
+      },
+      {
+        "type": "group",
+        "id": "options "
+      },
+      {
+        "type": "group",
+        "id": "more icon"
+      },
+      {
+        "type": "group",
+        "id": "Bottom bar"
+      },
+      {
+        "type": "group",
+        "id": "Battery"
+      },
+      {
+        "type": "group",
+        "id": "Time Style"
+      },
+      {
+        "type": "vector",
+        "id": "Border"
+      },
+      {
+        "type": "vector",
+        "id": "Cap"
+      },
+      {
+        "type": "vector",
+        "id": "Capacity"
+      },
+      {
+        "type": "text",
+        "id": "Time"
+      },
+      {
+        "type": "vector",
+        "id": "option list background1"
+      },
+      {
+        "type": "text",
+        "id": "Amelia Renata1"
+      },
+      {
+        "type": "group",
+        "id": "heart rate"
+      },
+      {
+        "type": "vector",
+        "id": "divider line 1"
+      },
+      {
+        "type": "group",
+        "id": "calories"
+      },
+      {
+        "type": "vector",
+        "id": "divider line 2"
+      },
+      {
+        "type": "group",
+        "id": "weight"
+      },
+      {
+        "type": "group",
+        "id": "Heart rate detail"
+      },
+      {
+        "type": "group",
+        "id": "Heartbeat"
+      },
+      {
+        "type": "text",
+        "id": "Heart rate count"
+      },
+      {
+        "type": "text",
+        "id": "Heart rate"
+      },
+      {
+        "type": "group",
+        "id": "Heartbeat1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "group",
+        "id": "Calories detail"
+      },
+      {
+        "type": "group",
+        "id": "Fire"
+      },
+      {
+        "type": "text",
+        "id": "Calories value"
+      },
+      {
+        "type": "text",
+        "id": "Calories"
+      },
+      {
+        "type": "group",
+        "id": "Fire1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "group",
+        "id": "Weight detail group"
+      },
+      {
+        "type": "group",
+        "id": "Barbell"
+      },
+      {
+        "type": "text",
+        "id": "Weight value"
+      },
+      {
+        "type": "text",
+        "id": "Weight"
+      },
+      {
+        "type": "group",
+        "id": "Barbell1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "group",
+        "id": "3D Avatars / 27"
+      },
+      {
+        "type": "group",
+        "id": "cameca  icon"
+      },
+      {
+        "type": "image",
+        "id": "Avatars / 3d_avatar_27"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 13"
+      },
+      {
+        "type": "group",
+        "id": "Camera"
+      },
+      {
+        "type": "group",
+        "id": "Camera1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      },
+      {
+        "type": "vector",
+        "id": "Vector7"
+      },
+      {
+        "type": "vector",
+        "id": "Vector8"
+      },
+      {
+        "type": "group",
+        "id": "my saved group"
+      },
+      {
+        "type": "vector",
+        "id": "divider line 4"
+      },
+      {
+        "type": "vector",
+        "id": "divider line 3"
+      },
+      {
+        "type": "vector",
+        "id": "divider line 5"
+      },
+      {
+        "type": "vector",
+        "id": "divider line 6"
+      },
+      {
+        "type": "group",
+        "id": "appointment group"
+      },
+      {
+        "type": "group",
+        "id": "payment group"
+      },
+      {
+        "type": "group",
+        "id": "faqs group"
+      },
+      {
+        "type": "group",
+        "id": "help group"
+      },
+      {
+        "type": "group",
+        "id": "like icon"
+      },
+      {
+        "type": "text",
+        "id": "My Saved"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-outline/Arrow - Right 2"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 6"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-Outline/Heart"
+      },
+      {
+        "type": "group",
+        "id": "Heart"
+      },
+      {
+        "type": "group",
+        "id": "Group 3"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 4"
+      },
+      {
+        "type": "vector",
+        "id": "Clip 2"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-outline/Arrow - Right 3"
+      },
+      {
+        "type": "group",
+        "id": "Arrow - Right 2"
+      },
+      {
+        "type": "vector",
+        "id": "Arrow - Right 3"
+      },
+      {
+        "type": "group",
+        "id": "appointment icon"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-outline/Arrow - Right 4"
+      },
+      {
+        "type": "text",
+        "id": "Appointmnet"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 7"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-Outline/Document"
+      },
+      {
+        "type": "group",
+        "id": "Document"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 1"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 3"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 5"
+      },
+      {
+        "type": "group",
+        "id": "Group 9"
+      },
+      {
+        "type": "vector",
+        "id": "Clip 8"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-outline/Arrow - Right 5"
+      },
+      {
+        "type": "group",
+        "id": "Arrow - Right 4"
+      },
+      {
+        "type": "vector",
+        "id": "Arrow - Right 5"
+      },
+      {
+        "type": "group",
+        "id": "payment icon"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-outline/Arrow - Right 6"
+      },
+      {
+        "type": "text",
+        "id": "Payment Method"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 8"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-Outline/Wallet"
+      },
+      {
+        "type": "group",
+        "id": "Wallet"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 2"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 6"
+      },
+      {
+        "type": "group",
+        "id": "Group 7"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 8"
+      },
+      {
+        "type": "vector",
+        "id": "Clip 6"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-outline/Arrow - Right 7"
+      },
+      {
+        "type": "group",
+        "id": "Arrow - Right 6"
+      },
+      {
+        "type": "vector",
+        "id": "Arrow - Right 7"
+      },
+      {
+        "type": "group",
+        "id": "faqs icon"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-outline/Arrow - Right 8"
+      },
+      {
+        "type": "text",
+        "id": "FAQs"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 9"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-Outline/Chat"
+      },
+      {
+        "type": "group",
+        "id": "Chat"
+      },
+      {
+        "type": "group",
+        "id": "Group 4"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 7"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 9"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 10"
+      },
+      {
+        "type": "vector",
+        "id": "Clip 3"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-outline/Arrow - Right 9"
+      },
+      {
+        "type": "group",
+        "id": "Arrow - Right 8"
+      },
+      {
+        "type": "vector",
+        "id": "Arrow - Right 9"
+      },
+      {
+        "type": "group",
+        "id": "help icon"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-outline/Arrow - Right 10"
+      },
+      {
+        "type": "text",
+        "id": "Help"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 10"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-Outline/Danger Circle"
+      },
+      {
+        "type": "group",
+        "id": "Danger Circle"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 11"
+      },
+      {
+        "type": "vector",
+        "id": "Fill 12"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light-outline/Arrow - Right 11"
+      },
+      {
+        "type": "group",
+        "id": "Arrow - Right 10"
+      },
+      {
+        "type": "vector",
+        "id": "Arrow - Right 11"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 2"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 3"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 12"
+      },
+      {
+        "type": "group",
+        "id": "messages group"
+      },
+      {
+        "type": "group",
+        "id": "appointment group1"
+      },
+      {
+        "type": "group",
+        "id": "profile group"
+      },
+      {
+        "type": "group",
+        "id": "home group"
+      },
+      {
+        "type": "vector",
+        "id": "messages icon"
+      },
+      {
+        "type": "text",
+        "id": "Messages"
+      },
+      {
+        "type": "vector",
+        "id": "appointment icon1"
+      },
+      {
+        "type": "text",
+        "id": "Appointment"
+      },
+      {
+        "type": "vector",
+        "id": "profile Icon"
+      },
+      {
+        "type": "text",
+        "id": "Profile"
+      },
+      {
+        "type": "vector",
+        "id": "Home Icon"
+      },
+      {
+        "type": "text",
+        "id": "Home"
+      }
+    ],
+    "modes": {
+      "Settigns": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "Bars / Status Bar / iPhone / Light",
+              "option list background",
+              "Amelia Renata",
+              "health data",
+              "profile photo group",
+              "options ",
+              "more icon",
+              "Bottom bar"
+            ],
+            "fills": [
+              {
+                "color": {},
+                "opacity": 1.0,
+                "fill-type": "lineargradient",
+                "blend-mode": "normal",
+                "color-stops": [
+                  {
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 212.30769230769232,
+                      "saturation": 0.196969696969697,
+                      "value": 0.25882352941176473
+                    },
+                    "color-stop-position": 0.0
+                  },
+                  {
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 264.0,
+                      "saturation": 0.15625,
+                      "value": 0.12549019607843137
+                    },
+                    "color-stop-position": 1.0
+                  }
+                ],
+                "gradient-handle-positions": [
+                  {
+                    "x": 0.34,
+                    "y": 0.36
+                  },
+                  {
+                    "x": 1.07,
+                    "y": -0.32
+                  },
+                  {
+                    "x": 0.69,
+                    "y": 0.73
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "Bars / Status Bar / iPhone / Light",
+            "margin": {
+              "bottom": 768.0
+            },
+            "is-structured": false,
+            "children": [
+              "Battery",
+              "Time Style"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "option list background",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 353.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 375.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 409.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "option list background1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Amelia Renata",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 124.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 187.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 125.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 22.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Amelia Renata1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "health data",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 42.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 239.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 290.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 71.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "heart rate",
+              "divider line 1",
+              "calories",
+              "divider line 2",
+              "weight"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "profile photo group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 133.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 58.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 110.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 117.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "3D Avatars / 27",
+              "cameca  icon"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "options ",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 384.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 335.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 323.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "my saved group",
+              "divider line 4",
+              "divider line 3",
+              "divider line 5",
+              "divider line 6",
+              "appointment group",
+              "payment group",
+              "faqs group",
+              "help group"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "more icon",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 351.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 69.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 4.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 16.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 2",
+              "Ellipse 3",
+              "Ellipse 4"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Bottom bar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 762.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 375.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 50.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 12",
+              "messages group",
+              "appointment group1",
+              "profile group",
+              "home group"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Battery",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 336.333251953125
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 17.33331298828125
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.328039169311523
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.333335876464844
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Border",
+              "Cap",
+              "Capacity"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Time Style",
+            "margin": {
+              "left": 21.0,
+              "top": 7.0,
+              "right": 300.0,
+              "bottom": 16.0
+            },
+            "is-structured": false,
+            "children": [
+              "Time"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Border",
+            "margin": {
+              "right": 2.3280391693115234
+            },
+            "border-radius": 2.6666667461395264,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "border.svg"
+          },
+          {
+            "id": "Cap",
+            "margin": {
+              "left": 23.0,
+              "top": 3.66668701171875,
+              "bottom": 3.6666488647460938
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "cap.svg"
+          },
+          {
+            "id": "Capacity",
+            "margin": {
+              "left": 2.0,
+              "top": 2.0,
+              "right": 4.328039169311523,
+              "bottom": 2.0
+            },
+            "border-radius": 1.3333333730697632,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "capacity.svg"
+          },
+          {
+            "id": "Time",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 5.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "9:41",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 15.0,
+            "letter-spacing": -0.23999999463558197,
+            "line-height": 1.3333332824707032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "option list background1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "option_list_background.svg"
+          },
+          {
+            "id": "Amelia Renata1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Amelia Renata",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 18.0,
+            "line-height": 1.2102272245619032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "heart rate",
+            "margin": {
+              "right": 227.0
+            },
+            "is-structured": false,
+            "children": [
+              "Heart rate detail",
+              "Heartbeat"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "divider line 1",
+            "margin": {
+              "left": 93.0,
+              "top": 14.0,
+              "right": 196.0,
+              "bottom": 13.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "divider_line_1.svg"
+          },
+          {
+            "id": "calories",
+            "margin": {
+              "left": 124.0,
+              "right": 113.0
+            },
+            "is-structured": false,
+            "children": [
+              "Calories detail",
+              "Fire"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "divider line 2",
+            "margin": {
+              "left": 207.0,
+              "top": 14.0,
+              "right": 82.0,
+              "bottom": 13.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "divider_line_2.svg"
+          },
+          {
+            "id": "weight",
+            "margin": {
+              "left": 238.0
+            },
+            "is-structured": false,
+            "children": [
+              "Weight detail group",
+              "Barbell"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Heart rate detail",
+            "margin": {
+              "top": 37.0
+            },
+            "is-structured": false,
+            "children": [
+              "Heart rate count",
+              "Heart rate"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Heartbeat",
+            "margin": {
+              "left": 15.0,
+              "right": 16.0,
+              "bottom": 39.0
+            },
+            "is-structured": false,
+            "children": [
+              "Heartbeat1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Heart rate count",
+            "margin": {
+              "top": 15.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "215bpm",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Heart rate",
+            "margin": {
+              "left": 7.0,
+              "right": 7.0,
+              "bottom": 22.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 91.97368421052632,
+              "saturation": 0.6229508196721312,
+              "value": 0.9568627450980393
+            },
+            "text-content": "Heart rate",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 10.0,
+            "line-height": 1.2102272033691406,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Heartbeat1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 32.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 32.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector",
+              "Vector1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "right": 32.0,
+              "bottom": 32.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": 2.7119140625,
+              "top": 4.5714111328125,
+              "bottom": 0.0000095367431640625
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Calories detail",
+            "margin": {
+              "top": 37.0
+            },
+            "is-structured": false,
+            "children": [
+              "Calories value",
+              "Calories"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Fire",
+            "margin": {
+              "left": 10.0,
+              "right": 11.0,
+              "bottom": 39.0
+            },
+            "is-structured": false,
+            "children": [
+              "Fire1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Calories value",
+            "margin": {
+              "top": 15.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "756cal",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Calories",
+            "margin": {
+              "left": 6.0,
+              "right": 7.0,
+              "bottom": 22.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 91.97368421052632,
+              "saturation": 0.6229508196721312,
+              "value": 0.9568627450980393
+            },
+            "text-content": "Calories",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 10.0,
+            "line-height": 1.2102272033691406,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Fire1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 32.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 32.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector2",
+              "Vector3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "right": 32.0,
+              "bottom": 32.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": 5.236328125,
+              "top": 1.499542236328125,
+              "right": 0.0000362396240234375,
+              "bottom": 0.0000133514404296875
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Weight detail group",
+            "margin": {
+              "top": 37.0
+            },
+            "is-structured": false,
+            "children": [
+              "Weight value",
+              "Weight"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Barbell",
+            "margin": {
+              "left": 10.0,
+              "right": 10.0,
+              "bottom": 39.0
+            },
+            "is-structured": false,
+            "children": [
+              "Barbell1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Weight value",
+            "margin": {
+              "top": 15.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "103lbs",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Weight",
+            "margin": {
+              "left": 8.0,
+              "right": 9.0,
+              "bottom": 22.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 91.97368421052632,
+              "saturation": 0.6229508196721312,
+              "value": 0.9568627450980393
+            },
+            "text-content": "Weight",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 10.0,
+            "line-height": 1.2102272033691406,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Barbell1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 32.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 32.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector4",
+              "Vector5"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Vector4",
+            "margin": {
+              "right": 32.0,
+              "bottom": 32.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Vector5",
+            "margin": {
+              "top": 7.384613037109375,
+              "bottom": 0.0000019073486328125
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "3D Avatars / 27",
+            "margin": {
+              "bottom": 6.0
+            },
+            "is-structured": false,
+            "children": [
+              "Avatars / 3d_avatar_27"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "cameca  icon",
+            "margin": {
+              "left": 79.0,
+              "top": 95.0,
+              "right": 7.0
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 13",
+              "Camera"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Avatars / 3d_avatar_27",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "image-content": "avatars_3d_avatar_27.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Ellipse 13",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_13.svg"
+          },
+          {
+            "id": "Camera",
+            "margin": {
+              "left": 3.0,
+              "top": 2.0,
+              "right": 5.0,
+              "bottom": 5.0
+            },
+            "is-structured": false,
+            "children": [
+              "Camera1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Camera1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 16.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 15.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector6",
+              "Vector7",
+              "Vector8"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Vector6",
+            "margin": {
+              "right": 16.0,
+              "bottom": 15.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Vector7",
+            "margin": {
+              "left": 2.05126953125,
+              "top": 2.5684814453125,
+              "right": 0.00001239776611328125,
+              "bottom": 0.000011444091796875
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Vector8",
+            "margin": {
+              "left": 5.8974609375,
+              "top": 6.164398193359375,
+              "right": 3.8461289405822754,
+              "bottom": 2.568479061126709
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "my saved group",
+            "margin": {
+              "bottom": 280.0
+            },
+            "is-structured": false,
+            "children": [
+              "like icon",
+              "My Saved",
+              "Iconly/Light-outline/Arrow - Right 2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "divider line 4",
+            "margin": {
+              "top": 56.0,
+              "bottom": 266.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "divider_line_4.svg"
+          },
+          {
+            "id": "divider line 3",
+            "margin": {
+              "top": 126.0,
+              "bottom": 196.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "divider_line_3.svg"
+          },
+          {
+            "id": "divider line 5",
+            "margin": {
+              "top": 196.0,
+              "bottom": 126.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "divider_line_5.svg"
+          },
+          {
+            "id": "divider line 6",
+            "margin": {
+              "top": 266.0,
+              "bottom": 56.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "divider_line_6.svg"
+          },
+          {
+            "id": "appointment group",
+            "margin": {
+              "top": 70.0,
+              "bottom": 210.0
+            },
+            "is-structured": false,
+            "children": [
+              "appointment icon",
+              "Iconly/Light-outline/Arrow - Right 4",
+              "Appointmnet"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "payment group",
+            "margin": {
+              "top": 140.0,
+              "bottom": 140.0
+            },
+            "is-structured": false,
+            "children": [
+              "payment icon",
+              "Iconly/Light-outline/Arrow - Right 6",
+              "Payment Method"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "faqs group",
+            "margin": {
+              "top": 210.0,
+              "bottom": 70.0
+            },
+            "is-structured": false,
+            "children": [
+              "faqs icon",
+              "Iconly/Light-outline/Arrow - Right 8",
+              "FAQs"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "help group",
+            "margin": {
+              "top": 280.0
+            },
+            "is-structured": false,
+            "children": [
+              "help icon",
+              "Iconly/Light-outline/Arrow - Right 10",
+              "Help"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "like icon",
+            "margin": {
+              "right": 292.0
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 6",
+              "Iconly/Light-Outline/Heart"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "My Saved",
+            "margin": {
+              "left": 61.0,
+              "top": 12.0,
+              "right": 163.0,
+              "bottom": 12.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.3333333333333333
+            },
+            "text-content": "My Biometrics",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Iconly/Light-outline/Arrow - Right 2",
+            "margin": {
+              "left": 311.0,
+              "top": 10.0,
+              "bottom": 9.0
+            },
+            "is-structured": false,
+            "children": [
+              "Iconly/Light-outline/Arrow - Right 3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Ellipse 6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_6.svg"
+          },
+          {
+            "id": "Iconly/Light-Outline/Heart",
+            "margin": {
+              "left": 9.0,
+              "top": 10.0,
+              "right": 10.0,
+              "bottom": 9.0
+            },
+            "is-structured": false,
+            "children": [
+              "Heart"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Heart",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 2.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.9998931884765625
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.47249984741211
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 19.500999450683594
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Group 3",
+              "Fill 4"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Group 3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.47249984741211
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 19.500999450683594
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Clip 2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Fill 4",
+            "margin": {
+              "left": 13.4873046875,
+              "top": 3.7038421630859375,
+              "right": 3.56738543510437,
+              "bottom": 11.875997304916382
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_4.svg"
+          },
+          {
+            "id": "Clip 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Iconly/Light-outline/Arrow - Right 3",
+            "is-structured": false,
+            "children": [
+              "Arrow - Right 2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Arrow - Right 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 7.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 4.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 9.000000953674316
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 16.000024795532227
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Arrow - Right 3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Arrow - Right 3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "arrow_right_2.svg"
+          },
+          {
+            "id": "appointment icon",
+            "margin": {
+              "right": 292.0
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 7",
+              "Iconly/Light-Outline/Document"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Iconly/Light-outline/Arrow - Right 4",
+            "margin": {
+              "left": 311.0,
+              "top": 10.0,
+              "bottom": 9.0
+            },
+            "is-structured": false,
+            "children": [
+              "Iconly/Light-outline/Arrow - Right 5"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Appointmnet",
+            "margin": {
+              "left": 61.0,
+              "top": 12.0,
+              "right": 217.0,
+              "bottom": 12.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.3333333333333333
+            },
+            "text-content": "History",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Ellipse 7",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_7.svg"
+          },
+          {
+            "id": "Iconly/Light-Outline/Document",
+            "margin": {
+              "left": 9.0,
+              "top": 9.0,
+              "right": 10.0,
+              "bottom": 10.0
+            },
+            "is-structured": false,
+            "children": [
+              "Document"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Document",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 3.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.0001983642578125
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.16469955444336
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 19.909799575805664
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Fill 1",
+              "Fill 3",
+              "Fill 5",
+              "Group 9"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Fill 1",
+            "margin": {
+              "left": 4.745849609375,
+              "top": 13.473495483398438,
+              "right": 4.698849678039551,
+              "bottom": 4.936304092407227
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_1.svg"
+          },
+          {
+            "id": "Fill 3",
+            "margin": {
+              "left": 4.745849609375,
+              "top": 9.287002563476562,
+              "right": 4.698849678039551,
+              "bottom": 9.122797012329102
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_3.svg"
+          },
+          {
+            "id": "Fill 5",
+            "margin": {
+              "left": 4.74560546875,
+              "top": 5.110198974609375,
+              "right": 9.164093971252441,
+              "bottom": 13.299600601196289
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_5.svg"
+          },
+          {
+            "id": "Group 9",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.16469955444336
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 19.909799575805664
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Clip 8"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Clip 8",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Iconly/Light-outline/Arrow - Right 5",
+            "is-structured": false,
+            "children": [
+              "Arrow - Right 4"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Arrow - Right 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 7.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 4.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 9.000000953674316
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 16.000024795532227
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Arrow - Right 5"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Arrow - Right 5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "arrow_right_3.svg"
+          },
+          {
+            "id": "payment icon",
+            "margin": {
+              "right": 292.0
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 8",
+              "Iconly/Light-Outline/Wallet"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Iconly/Light-outline/Arrow - Right 6",
+            "margin": {
+              "left": 311.0,
+              "top": 9.0,
+              "bottom": 10.0
+            },
+            "is-structured": false,
+            "children": [
+              "Iconly/Light-outline/Arrow - Right 7"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Payment Method",
+            "margin": {
+              "left": 61.0,
+              "top": 12.0,
+              "right": 140.0,
+              "bottom": 12.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.3333333333333333
+            },
+            "text-content": "Account Settings",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Ellipse 8",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_8.svg"
+          },
+          {
+            "id": "Iconly/Light-Outline/Wallet",
+            "margin": {
+              "left": 9.0,
+              "top": 9.0,
+              "right": 10.0,
+              "bottom": 10.0
+            },
+            "is-structured": false,
+            "children": [
+              "Wallet"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Wallet",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 2.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 3.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.638681411743164
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 19.17289924621582
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Fill 2",
+              "Fill 6",
+              "Group 7",
+              "Fill 8"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Fill 2",
+            "margin": {
+              "left": 12.398681640625,
+              "top": 6.013603210449219,
+              "bottom": 6.27729606628418
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_2.svg"
+          },
+          {
+            "id": "Fill 6",
+            "margin": {
+              "left": 15.236328125,
+              "top": 8.643600463867188,
+              "right": 3.59035325050354,
+              "bottom": 9.029298782348633
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_6.svg"
+          },
+          {
+            "id": "Group 7",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.638599395751953
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 19.17289924621582
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Clip 6"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Fill 8",
+            "margin": {
+              "left": 4.53564453125,
+              "top": 4.5381011962890625,
+              "right": 9.204036712646484,
+              "bottom": 13.134798049926758
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_8.svg"
+          },
+          {
+            "id": "Clip 6",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Iconly/Light-outline/Arrow - Right 7",
+            "is-structured": false,
+            "children": [
+              "Arrow - Right 6"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Arrow - Right 6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 7.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 4.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 9.000000953674316
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 16.000024795532227
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Arrow - Right 7"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Arrow - Right 7",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "arrow_right_4.svg"
+          },
+          {
+            "id": "faqs icon",
+            "margin": {
+              "right": 292.0
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 9",
+              "Iconly/Light-Outline/Chat"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Iconly/Light-outline/Arrow - Right 8",
+            "margin": {
+              "left": 311.0,
+              "top": 10.0,
+              "bottom": 9.0
+            },
+            "is-structured": false,
+            "children": [
+              "Iconly/Light-outline/Arrow - Right 9"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "FAQs",
+            "margin": {
+              "left": 61.0,
+              "top": 12.0,
+              "right": 233.0,
+              "bottom": 12.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.3333333333333333
+            },
+            "text-content": "FAQs",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Ellipse 9",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_9.svg"
+          },
+          {
+            "id": "Iconly/Light-Outline/Chat",
+            "margin": {
+              "left": 9.0,
+              "top": 10.0,
+              "right": 10.0,
+              "bottom": 9.0
+            },
+            "is-structured": false,
+            "children": [
+              "Chat"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Chat",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 1.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 1.0003013610839844
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 21.493000030517578
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 21.493799209594727
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Group 4",
+              "Fill 7",
+              "Fill 9",
+              "Fill 10"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Group 4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 21.493000030517578
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 21.493799209594727
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Clip 3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Fill 7",
+            "margin": {
+              "left": 13.6923828125,
+              "top": 10.162696838378906,
+              "right": 5.796617269515991,
+              "bottom": 9.33110237121582
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_7.svg"
+          },
+          {
+            "id": "Fill 9",
+            "margin": {
+              "left": 9.68359375,
+              "top": 10.162696838378906,
+              "right": 9.805406332015991,
+              "bottom": 9.33110237121582
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_9.svg"
+          },
+          {
+            "id": "Fill 10",
+            "margin": {
+              "left": 5.67431640625,
+              "top": 10.162696838378906,
+              "right": 13.814683675765991,
+              "bottom": 9.33110237121582
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_10.svg"
+          },
+          {
+            "id": "Clip 3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "id": "Iconly/Light-outline/Arrow - Right 9",
+            "is-structured": false,
+            "children": [
+              "Arrow - Right 8"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Arrow - Right 8",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 7.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 4.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 9.000000953674316
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 16.000024795532227
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Arrow - Right 9"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Arrow - Right 9",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "arrow_right_5.svg"
+          },
+          {
+            "id": "help icon",
+            "margin": {
+              "right": 292.0
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 10",
+              "Iconly/Light-Outline/Danger Circle"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Iconly/Light-outline/Arrow - Right 10",
+            "margin": {
+              "left": 311.0,
+              "top": 10.0,
+              "bottom": 9.0
+            },
+            "is-structured": false,
+            "children": [
+              "Iconly/Light-outline/Arrow - Right 11"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Help",
+            "margin": {
+              "left": 61.0,
+              "top": 12.0,
+              "right": 238.0,
+              "bottom": 12.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.3333333333333333
+            },
+            "text-content": "Help",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Ellipse 10",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_10.svg"
+          },
+          {
+            "id": "Iconly/Light-Outline/Danger Circle",
+            "margin": {
+              "left": 9.0,
+              "top": 10.0,
+              "right": 10.0,
+              "bottom": 9.0
+            },
+            "is-structured": false,
+            "children": [
+              "Danger Circle"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Danger Circle",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 2.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Fill 11",
+              "Fill 12"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Fill 11",
+            "margin": {
+              "left": 2.447509765625,
+              "right": 2.5898971557617188,
+              "bottom": 7.3280534744262695
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_11.svg"
+          },
+          {
+            "id": "Fill 12",
+            "margin": {
+              "top": 15.718215942382812
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "fill_12.svg"
+          },
+          {
+            "id": "Iconly/Light-outline/Arrow - Right 11",
+            "is-structured": false,
+            "children": [
+              "Arrow - Right 10"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Arrow - Right 10",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 7.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 4.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 9.000000953674316
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 16.000024795532227
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Arrow - Right 11"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Arrow - Right 11",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "arrow_right_6.svg"
+          },
+          {
+            "id": "Ellipse 2",
+            "margin": {
+              "bottom": 12.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_2.svg"
+          },
+          {
+            "id": "Ellipse 3",
+            "margin": {
+              "top": 6.0,
+              "bottom": 6.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_3.svg"
+          },
+          {
+            "id": "Ellipse 4",
+            "margin": {
+              "top": 12.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_4.svg"
+          },
+          {
+            "id": "Rectangle 12",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_12.svg"
+          },
+          {
+            "id": "messages group",
+            "margin": {
+              "left": 94.0,
+              "top": 7.0,
+              "right": 187.0,
+              "bottom": 6.99993896484375
+            },
+            "is-structured": false,
+            "children": [
+              "messages icon",
+              "Messages"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "appointment group1",
+            "margin": {
+              "left": 188.0,
+              "top": 7.0,
+              "right": 94.0,
+              "bottom": 7.0
+            },
+            "is-structured": false,
+            "children": [
+              "appointment icon1",
+              "Appointment"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "profile group",
+            "margin": {
+              "left": 281.0,
+              "top": 7.0,
+              "right": 0.25,
+              "bottom": 7.0
+            },
+            "is-structured": false,
+            "children": [
+              "profile Icon",
+              "Profile"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "home group",
+            "margin": {
+              "top": 7.0,
+              "right": 281.25,
+              "bottom": 6.91937255859375
+            },
+            "is-structured": false,
+            "children": [
+              "Home Icon",
+              "Home"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "messages icon",
+            "margin": {
+              "left": 37.0986328125,
+              "right": 35.348066329956055,
+              "bottom": 13.438331604003906
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "messages_icon.svg"
+          },
+          {
+            "id": "Messages",
+            "margin": {
+              "top": 25.58203125
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.6784313725490196
+            },
+            "text-content": "Messages",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "appointment icon1",
+            "margin": {
+              "left": 36.7041015625,
+              "right": 34.459856033325195,
+              "bottom": 12.979999542236328
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "appointment_icon.svg"
+          },
+          {
+            "id": "Appointment",
+            "margin": {
+              "top": 26.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.6784313725490196
+            },
+            "text-content": "Weight",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "profile Icon",
+            "margin": {
+              "left": 37.0,
+              "right": 36.25,
+              "bottom": 14.479999542236328
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "profile_icon.svg"
+          },
+          {
+            "id": "Profile",
+            "margin": {
+              "top": 26.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 500.0,
+            "text-content": "Profile",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Home Icon",
+            "margin": {
+              "left": 37.0,
+              "right": 36.09679985046387,
+              "bottom": 11.936454772949219
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "home_icon.svg"
+          },
+          {
+            "id": "Home",
+            "margin": {
+              "top": 26.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.6784313725490196
+            },
+            "text-content": "Home",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Settigns",
+      "size": {
+        "width": 375.0,
+        "height": 812.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

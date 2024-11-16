@@ -1,0 +1,182 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/colorCharcoal">
+
+    <!-- Top Welcome Message -->
+    <TextView
+        android:id="@+id/welcomeMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weigh to Go!\nYou’ve got this!"
+        android:textSize="24sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:gravity="center"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- BMI Metrics Section -->
+    <LinearLayout
+        android:id="@+id/bmiMetrics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintTop_toBottomOf="@id/welcomeMessage"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <TextView
+            android:id="@+id/valueBMI"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BMI: 0.0"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/valueWeeklyAvgLoss"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Weekly Avg Loss: 0.0"
+            android:textSize="16sp"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/valueTotalLoss"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total Loss: 0.0"
+            android:textSize="16sp"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/labelLeftToGoal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Left to Goal:"
+            android:textSize="16sp"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/valueLeftToGoal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0.0"
+            android:textSize="16sp"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+    <!-- Buttons Row -->
+    <LinearLayout
+        android:id="@+id/buttonRow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/bmiMetrics"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:gravity="center"
+        android:layout_marginBottom="24dp">
+
+        <!-- Add Weight Button -->
+        <ImageButton
+            android:id="@+id/addWeightButton"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:src="@drawable/ic_add"
+            android:backgroundTint="@color/colorGreen"
+            android:contentDescription="Add Weight"
+            android:background="@drawable/circle_shape"/>
+
+        <!-- History Button -->
+        <ImageButton
+            android:id="@+id/historyButton"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:src="@drawable/ic_history"
+            android:backgroundTint="@color/colorGreen"
+            android:contentDescription="View History"
+            android:layout_marginStart="16dp"
+            android:background="@drawable/circle_shape"/>
+
+        <!-- Stats Button -->
+        <ImageButton
+            android:id="@+id/statsButton"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:src="@drawable/ic_stats"
+            android:backgroundTint="@color/colorGreen"
+            android:contentDescription="View Stats"
+            android:layout_marginStart="16dp"
+            android:background="@drawable/circle_shape"/>
+
+        <!-- Settings Button -->
+        <ImageButton
+            android:id="@+id/settingsButton"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:src="@drawable/ic_settings"
+            android:backgroundTint="@color/colorGreen"
+            android:contentDescription="Settings"
+            android:layout_marginStart="16dp"
+            android:background="@drawable/circle_shape"/>
+    </LinearLayout>
+
+    <!-- Bottom Navigation Bar -->
+    <LinearLayout
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:gravity="center">
+
+        <!-- Home Icon -->
+        <ImageView
+            android:id="@+id/homeNav"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/ic_home"
+            android:contentDescription="Home"
+            android:tint="@color/colorGreen"/>
+
+        <!-- Messages Icon -->
+        <ImageView
+            android:id="@+id/messagesNav"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/ic_messages"
+            android:contentDescription="Messages"
+            android:tint="@android:color/white"
+            android:layout_marginStart="32dp"/>
+
+        <!-- Weight Icon -->
+        <ImageView
+            android:id="@+id/weightNav"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/ic_weight"
+            android:contentDescription="Weight"
+            android:tint="@android:color/white"
+            android:layout_marginStart="32dp"/>
+
+        <!-- Profile Icon -->
+        <ImageView
+            android:id="@+id/profileNav"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/ic_profile"
+            android:contentDescription="Profile"
+            android:tint="@android:color/white"
+            android:layout_marginStart="32dp"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

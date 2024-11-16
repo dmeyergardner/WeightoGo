@@ -1,0 +1,2202 @@
+{
+  "name": "weight",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "EovCOVuO4n8s5E7DvqPYJz",
+    "node": "15:178",
+    "version": "6701325219",
+    "component-id": "f1a60f83b2ca97a27e0692a4d56156ec38302310"
+  },
+  "default": "Weight",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Bars / Status Bar / iPhone / Light"
+      },
+      {
+        "type": "group",
+        "id": "Component 1"
+      },
+      {
+        "type": "group",
+        "id": "header group"
+      },
+      {
+        "type": "group",
+        "id": "Tab group"
+      },
+      {
+        "type": "group",
+        "id": "schedule 2"
+      },
+      {
+        "type": "group",
+        "id": "bottom bar"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle1"
+      },
+      {
+        "type": "text",
+        "id": "192"
+      },
+      {
+        "type": "group",
+        "id": "Battery"
+      },
+      {
+        "type": "group",
+        "id": "Time Style"
+      },
+      {
+        "type": "vector",
+        "id": "Border"
+      },
+      {
+        "type": "vector",
+        "id": "Cap"
+      },
+      {
+        "type": "vector",
+        "id": "Capacity"
+      },
+      {
+        "type": "text",
+        "id": "Time"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 2"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 3"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 4"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light/Notification"
+      },
+      {
+        "type": "text",
+        "id": "Schedule"
+      },
+      {
+        "type": "group",
+        "id": "Notification"
+      },
+      {
+        "type": "vector",
+        "id": "Stroke 1"
+      },
+      {
+        "type": "vector",
+        "id": "Stroke 3"
+      },
+      {
+        "type": "vector",
+        "id": "tab background"
+      },
+      {
+        "type": "group",
+        "id": "upcoming group"
+      },
+      {
+        "type": "text",
+        "id": "Completed"
+      },
+      {
+        "type": "text",
+        "id": "Canceled"
+      },
+      {
+        "type": "vector",
+        "id": "selected background"
+      },
+      {
+        "type": "text",
+        "id": "Upcoming"
+      },
+      {
+        "type": "vector",
+        "id": "shedule 2 background"
+      },
+      {
+        "type": "group",
+        "id": "schedule 2 detail"
+      },
+      {
+        "type": "text",
+        "id": "Psikeater"
+      },
+      {
+        "type": "text",
+        "id": "Dr. Alysa Hana"
+      },
+      {
+        "type": "group",
+        "id": "Full Name field"
+      },
+      {
+        "type": "group",
+        "id": "reschedule button"
+      },
+      {
+        "type": "group",
+        "id": "cancel button"
+      },
+      {
+        "type": "group",
+        "id": "time group"
+      },
+      {
+        "type": "vector",
+        "id": "reschedule button background"
+      },
+      {
+        "type": "text",
+        "id": "Reschedule"
+      },
+      {
+        "type": "vector",
+        "id": "cancel button background"
+      },
+      {
+        "type": "text",
+        "id": "Cancel"
+      },
+      {
+        "type": "group",
+        "id": "Group 128"
+      },
+      {
+        "type": "group",
+        "id": "Group 129"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light/Calendar"
+      },
+      {
+        "type": "text",
+        "id": "date"
+      },
+      {
+        "type": "group",
+        "id": "Calendar"
+      },
+      {
+        "type": "vector",
+        "id": "Line_200"
+      },
+      {
+        "type": "vector",
+        "id": "Line_201"
+      },
+      {
+        "type": "vector",
+        "id": "Line_202"
+      },
+      {
+        "type": "vector",
+        "id": "Line_203"
+      },
+      {
+        "type": "vector",
+        "id": "Line_204"
+      },
+      {
+        "type": "vector",
+        "id": "Line_205"
+      },
+      {
+        "type": "vector",
+        "id": "Line_206"
+      },
+      {
+        "type": "vector",
+        "id": "Line_207"
+      },
+      {
+        "type": "vector",
+        "id": "Line_208"
+      },
+      {
+        "type": "vector",
+        "id": "Path"
+      },
+      {
+        "type": "text",
+        "id": "time"
+      },
+      {
+        "type": "group",
+        "id": "Iconly/Light/Time Circle"
+      },
+      {
+        "type": "group",
+        "id": "Time Circle"
+      },
+      {
+        "type": "vector",
+        "id": "Stroke 2"
+      },
+      {
+        "type": "vector",
+        "id": "Stroke 4"
+      },
+      {
+        "type": "group",
+        "id": "Full Name Form"
+      },
+      {
+        "type": "text",
+        "id": "Full Name"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 12"
+      },
+      {
+        "type": "group",
+        "id": "Group 260"
+      },
+      {
+        "type": "group",
+        "id": "Group 261"
+      },
+      {
+        "type": "group",
+        "id": "Group 262"
+      },
+      {
+        "type": "group",
+        "id": "Group 259"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "text",
+        "id": "Messages"
+      },
+      {
+        "type": "vector",
+        "id": "Calendar1"
+      },
+      {
+        "type": "text",
+        "id": "Appointment"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "text",
+        "id": "Profile"
+      },
+      {
+        "type": "vector",
+        "id": "Home"
+      },
+      {
+        "type": "text",
+        "id": "Home1"
+      }
+    ],
+    "modes": {
+      "Weight": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "Bars / Status Bar / iPhone / Light",
+              "Component 1",
+              "header group",
+              "Tab group",
+              "schedule 2",
+              "bottom bar",
+              "Rectangle",
+              "Rectangle1",
+              "192"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 212.30769230769232,
+              "saturation": 0.196969696969697,
+              "value": 0.25882352941176473
+            }
+          },
+          {
+            "id": "Bars / Status Bar / iPhone / Light",
+            "margin": {
+              "bottom": 768.0
+            },
+            "is-structured": false,
+            "children": [
+              "Battery",
+              "Time Style"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Component 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 351.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 69.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 4.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 16.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 2",
+              "Ellipse 3",
+              "Ellipse 4"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "header group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 61.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 327.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 32.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Iconly/Light/Notification",
+              "Schedule"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Tab group",
+            "border-radius": 8.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 141.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 335.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 46.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "tab background",
+              "upcoming group",
+              "Completed",
+              "Canceled"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "schedule 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 403.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 335.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 220.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "shedule 2 background",
+              "schedule 2 detail",
+              "Psikeater",
+              "Dr. Alysa Hana",
+              "Full Name field"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "bottom bar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -1.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 752.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 375.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 50.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 12",
+              "Group 260",
+              "Group 261",
+              "Group 262",
+              "Group 259"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Rectangle",
+            "border-radius": 100.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 45.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 228.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 293.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 47.0
+              }
+            },
+            "vector-content": "rectangle.svg"
+          },
+          {
+            "id": "Rectangle1",
+            "border-radius": 100.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 45.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 228.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 150.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 47.0
+              }
+            },
+            "vector-content": "rectangle1.svg"
+          },
+          {
+            "id": "192",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 294.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 267.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 75.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "192",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 64.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Battery",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 336.333251953125
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 17.33331298828125
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.328039169311523
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.333335876464844
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Border",
+              "Cap",
+              "Capacity"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Time Style",
+            "margin": {
+              "left": 21.0,
+              "top": 7.0,
+              "right": 300.0,
+              "bottom": 16.0
+            },
+            "is-structured": false,
+            "children": [
+              "Time"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Border",
+            "margin": {
+              "right": 2.3280391693115234
+            },
+            "border-radius": 2.6666667461395264,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "border.svg"
+          },
+          {
+            "id": "Cap",
+            "margin": {
+              "left": 23.0,
+              "top": 3.66668701171875,
+              "bottom": 3.6666488647460938
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "cap.svg"
+          },
+          {
+            "id": "Capacity",
+            "margin": {
+              "left": 2.0,
+              "top": 2.0,
+              "right": 4.328039169311523,
+              "bottom": 2.0
+            },
+            "border-radius": 1.3333333730697632,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "capacity.svg"
+          },
+          {
+            "id": "Time",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": 5.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "9:41",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 15.0,
+            "letter-spacing": -0.23999999463558197,
+            "line-height": 1.3333332824707032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Ellipse 2",
+            "margin": {
+              "bottom": 12.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_2.svg"
+          },
+          {
+            "id": "Ellipse 3",
+            "margin": {
+              "top": 6.0,
+              "bottom": 6.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_3.svg"
+          },
+          {
+            "id": "Ellipse 4",
+            "margin": {
+              "top": 12.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ellipse_4.svg"
+          },
+          {
+            "id": "Iconly/Light/Notification",
+            "margin": {
+              "left": 303.5029296875,
+              "top": 4.0,
+              "right": 0.000064849853515625,
+              "bottom": 4.0
+            },
+            "is-structured": false,
+            "children": [
+              "Notification"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Schedule",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 142.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Weight",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 24.0,
+            "line-height": 1.3333332824707032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Notification",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 3.4267578125
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 16.643712997436523
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Stroke 1",
+              "Stroke 3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Stroke 1",
+            "margin": {
+              "bottom": 3.862701416015625
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "stroke_1.svg"
+          },
+          {
+            "id": "Stroke 3",
+            "margin": {
+              "left": 5.41552734375,
+              "top": 17.541595458984375,
+              "right": 5.497940540313721
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "stroke_3.svg"
+          },
+          {
+            "id": "tab background",
+            "border-radius": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 335.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 46.0
+              }
+            },
+            "vector-content": "tab_background.svg"
+          },
+          {
+            "id": "upcoming group",
+            "border-radius": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 104.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 46.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "selected background",
+              "Upcoming"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Completed",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 131.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "text-content": "History",
+            "overflow": "visible",
+            "text-align": "left",
+            "line-height": 2.2857142639160157,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Canceled",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 248.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 73.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "text-content": "Trends",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "line-height": 2.2857142639160157,
+            "typeface": "Inter"
+          },
+          {
+            "id": "selected background",
+            "border-radius": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 104.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 46.0
+              }
+            },
+            "vector-content": "selected_background.svg"
+          },
+          {
+            "id": "Upcoming",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 17.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 73.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 600.0,
+            "text-content": "Today",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "line-height": 2.2857142639160157,
+            "typeface": "Inter"
+          },
+          {
+            "id": "shedule 2 background",
+            "border-radius": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 335.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 220.0
+              }
+            },
+            "vector-content": "shedule_2_background.svg"
+          },
+          {
+            "id": "schedule 2 detail",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 134.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 305.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 75.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "reschedule button",
+              "cancel button",
+              "time group"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Psikeater",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 41.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 210.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.6784313725490196
+            },
+            "text-content": "Goals can change",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Dr. Alysa Hana",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 15.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.3333333333333333
+            },
+            "text-content": "What is your weight now?",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 18.0,
+            "line-height": 1.2102272245619032,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Full Name field",
+            "border-radius": 5.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 71.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 287.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Full Name Form"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "reschedule button",
+            "border-radius": 8.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 160.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 29.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 145.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 46.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "reschedule button background",
+              "Reschedule"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "cancel button",
+            "border-radius": 8.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 29.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 145.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 46.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "cancel button background",
+              "Cancel"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "time group",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 169.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 15.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Group 128",
+              "Group 129"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "reschedule button background",
+            "border-radius": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 145.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 46.0
+              }
+            },
+            "vector-content": "reschedule_button_background.svg"
+          },
+          {
+            "id": "Reschedule",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 9.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 129.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Enter",
+            "overflow": "visible",
+            "max-lines": -1,
+            "line-height": 2.2857142639160157,
+            "typeface": "Inter"
+          },
+          {
+            "id": "cancel button background",
+            "border-radius": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 145.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 46.0
+              }
+            },
+            "vector-content": "cancel_button_background.svg"
+          },
+          {
+            "id": "Cancel",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 5.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 135.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.3333333333333333
+            },
+            "text-content": "Cancel",
+            "overflow": "visible",
+            "max-lines": -1,
+            "line-height": 2.2857142639160157,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Group 128",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 89.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 15.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Iconly/Light/Calendar",
+              "date"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Group 129",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 101.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 68.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 15.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "time",
+              "Iconly/Light/Time Circle"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Iconly/Light/Calendar",
+            "margin": {
+              "right": 74.0
+            },
+            "is-structured": false,
+            "children": [
+              "Calendar"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "date",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 69.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.3333333333333333
+            },
+            "text-content": "28/06/2021",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Calendar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 1.875
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 1.25
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.25
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 12.5
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Line_200",
+              "Line_201",
+              "Line_202",
+              "Line_203",
+              "Line_204",
+              "Line_205",
+              "Line_206",
+              "Line_207",
+              "Line_208",
+              "Path"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Line_200",
+            "margin": {
+              "left": 0.051025390625,
+              "top": 3.868011474609375,
+              "right": 0.04605388641357422,
+              "bottom": 7.292699456214905
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_200.svg"
+          },
+          {
+            "id": "Line_201",
+            "margin": {
+              "left": 7.159912109375,
+              "top": 6.047365188598633,
+              "right": 2.7614476680755615,
+              "bottom": 5.113345742225647
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_201.svg"
+          },
+          {
+            "id": "Line_202",
+            "margin": {
+              "left": 4.712890625,
+              "top": 6.047365188598633,
+              "right": 5.208478093147278,
+              "bottom": 5.113345742225647
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_202.svg"
+          },
+          {
+            "id": "Line_203",
+            "margin": {
+              "left": 2.2607421875,
+              "top": 6.047365188598633,
+              "right": 7.660626530647278,
+              "bottom": 5.113345742225647
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_203.svg"
+          },
+          {
+            "id": "Line_204",
+            "margin": {
+              "left": 7.159912109375,
+              "top": 8.21619987487793,
+              "right": 2.7614476680755615,
+              "bottom": 2.94451105594635
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_204.svg"
+          },
+          {
+            "id": "Line_205",
+            "margin": {
+              "left": 4.712890625,
+              "top": 8.21619987487793,
+              "right": 5.208478093147278,
+              "bottom": 2.94451105594635
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_205.svg"
+          },
+          {
+            "id": "Line_206",
+            "margin": {
+              "left": 2.2607421875,
+              "top": 8.21619987487793,
+              "right": 7.660626530647278,
+              "bottom": 2.94451105594635
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_206.svg"
+          },
+          {
+            "id": "Line_207",
+            "margin": {
+              "left": 6.937744140625,
+              "right": 2.98872971534729,
+              "bottom": 9.32433557510376
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_207.svg"
+          },
+          {
+            "id": "Line_208",
+            "margin": {
+              "left": 2.48291015625,
+              "right": 7.443562865257263,
+              "bottom": 9.32433557510376
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_208.svg"
+          },
+          {
+            "id": "Path",
+            "margin": {
+              "top": 0.8812370300292969
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "path.svg"
+          },
+          {
+            "id": "time",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.3333333333333333
+            },
+            "text-content": "2:00 PM",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Iconly/Light/Time Circle",
+            "margin": {
+              "right": 53.0
+            },
+            "is-structured": false,
+            "children": [
+              "Time Circle"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Time Circle",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 1.718505859375
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 1.7190666198730469
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.5625
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.5625
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Stroke 2",
+              "Stroke 4"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Stroke 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "stroke_2.svg"
+          },
+          {
+            "id": "Stroke 4",
+            "margin": {
+              "left": 4.93017578125,
+              "top": 2.819478988647461,
+              "right": 3.2187936305999756,
+              "bottom": 3.4894485473632812
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "stroke_4.svg"
+          },
+          {
+            "id": "Full Name Form",
+            "border-radius": 5.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 287.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 225.7142857142857,
+              "saturation": 0.08235294117647063,
+              "value": 1.0
+            },
+            "is-structured": false,
+            "children": [
+              "Full Name"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Full Name",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 15.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 13.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 263.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 225.45454545454544,
+              "saturation": 0.18644067796610167,
+              "value": 0.6941176470588235
+            },
+            "text-content": "Type in the new weight",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "letter-spacing": 0.5,
+            "line-height": 1.7999998474121093,
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 12",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 1.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 375.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 50.0
+              }
+            },
+            "vector-content": "rectangle_12.svg"
+          },
+          {
+            "id": "Group 260",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 94.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 94.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 36.000022888183594
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector",
+              "Messages"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Group 261",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 188.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 6.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 37.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Calendar1",
+              "Appointment"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Group 262",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 281.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.75
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 36.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector1",
+              "Profile"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Group 259",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.75
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 36.08062744140625
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Home",
+              "Home1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": 37.0986328125,
+              "right": 35.348066329956055,
+              "bottom": 13.43829345703125
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Messages",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 25.582000732421875
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 94.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.41802978515625
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Messages",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Calendar1",
+            "margin": {
+              "left": 36.0,
+              "right": 34.99999237060547,
+              "bottom": 13.999992370605469
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "calendar.svg"
+          },
+          {
+            "id": "Appointment",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 27.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 91.97368421052632,
+              "saturation": 0.6229508196721312,
+              "value": 0.9568627450980393
+            },
+            "text-content": "Weight",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": 37.0,
+              "right": 34.821414947509766,
+              "bottom": 13.051414489746094
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Profile",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 26.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.75
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Profile",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Home",
+            "margin": {
+              "left": 37.0,
+              "right": 36.09679985046387,
+              "bottom": 11.936454772949219
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "home.svg"
+          },
+          {
+            "id": "Home1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 26.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 93.75
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 10.08062744140625
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Home",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 8.0,
+            "line-height": 1.2102272510528564,
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Weight",
+      "size": {
+        "width": 375.0,
+        "height": 812.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
