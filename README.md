@@ -4,6 +4,8 @@
 
 This repository contains the final project for the Android Application Development course. The goal of this project is to create a fully functional Android application that meets all specified requirements and demonstrates best practices in mobile app design and development.
 
+<img width="375" alt="Screenshot 2024-11-19 at 12 15 10 AM" src="https://github.com/user-attachments/assets/afb2a4a0-8de8-423e-b28b-5909d81b03bc">
+
 ---
 
 ## Project Features
